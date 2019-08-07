@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Aspiring Data Scientist / Machine Learning Engineer continually pursuing my passion for knowledge.
+Aspiring Data Scientist / Machine Learning Engineer
 
 ### More Information
 
-Continually pursuing my passion for knowledge and 
+Continually pursuing my passion for knowledge and all things data. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:bobbybroz@gmail.com)
