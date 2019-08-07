@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Determined to become a Data Scientist / Machine Learning Engineer. I learn, unlearn, relearn and repeat.
+Determined to become a Data Scientist / Machine Learning Engineer.
 
 ### More Information
 
-Continually pursuing my passion for knowledge and all things data. 
+Continually pursuing my passion for knowledge and all things data. I learn, unlearn, relearn and repeat.
 
 ### Contact me
 
