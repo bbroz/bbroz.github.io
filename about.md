@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Determined to become a Data Scientist / Machine Learning Engineer
+Determined to become a Data Scientist / Machine Learning Engineer. I learn, unlearn, relearn and repeat.
 
 ### More Information
 
