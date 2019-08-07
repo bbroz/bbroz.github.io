@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about me/
 ---
 
 Determined to become a Data Scientist / Machine Learning Engineer.
