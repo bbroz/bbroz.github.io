@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Aspiring Data Scientist / Machine Learning Engineer
+Determined to become a Data Scientist / Machine Learning Engineer
 
 ### More Information
 
