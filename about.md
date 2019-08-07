@@ -8,7 +8,7 @@ Determined to become a Data Scientist / Machine Learning Engineer.
 
 ### More Information
 
-Continually pursuing my passion for knowledge and all things data. I learn, unlearn, relearn and repeat.
+Continually pursuing my passion for knowledge and all things data. I learn, unlearn, relearn, repeat and try to have some fun along the way.
 
 ### Contact me
 
